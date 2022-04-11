@@ -1,8 +1,0 @@
-name: "mega_cli"
-description: "Utilisation de dotnet Core et de bibliotèques de conception d'outils en ligne de commande (CLI) avec auto-complétion, descriptions des paramètres, usage, etc."
-topics: []
-homepage: ""
-source:
-  provider: gitlab
-  namespace: "sachahjkl"
-  path: "sachahjkl/mega_cli"
