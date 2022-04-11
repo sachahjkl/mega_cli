@@ -1,0 +1,7 @@
+credentials:
+  username: 'sacha'
+  password: 'test'
+  megaField: '~jhqkjhqqsdqsd[Test]'
+
+other:
+  neededValue: 'VERY_IMPORTANT'
